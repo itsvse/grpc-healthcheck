@@ -4,13 +4,14 @@
     <TargetFramework>net8.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
-	  <Version>1.0.0</Version>
+	  <Version>1.0.1</Version>
 	  <Authors>itsvse</Authors>
 	  <Copyright>Copyright © 2025 itsvse.com</Copyright>
 	  <PackageLicenseExpression>MIT</PackageLicenseExpression>
 	  <PackageTags>grpc health healthcheck</PackageTags>
 	  <PackageProjectUrl>https://github.com/itsvse/grpc-healthcheck</PackageProjectUrl>
 	  <Description>Sw.Grpc.HealthCheck contains the reference implementation of gRPC health check service.</Description>
+	  <PackageReadmeFile>README.md</PackageReadmeFile>
   </PropertyGroup>
 
 	<ItemGroup>
